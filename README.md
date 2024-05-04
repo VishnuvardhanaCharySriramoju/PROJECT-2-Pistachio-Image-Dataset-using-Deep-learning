@@ -1,1 +1,3 @@
 # PROJECT-2-Pistachio-Image-Dataset-using-Deep-learning
+In the realm of artificial intelligence and computer vision, deep learning has revolutionized the way machines perceive and interpret visual information. One area where deep learning has shown remarkable potential is in image recognition and classification. To harness this power for a specific domain, such as the world of pistachios, we introduce the "Pistachio Image Dataset for Deep Learning." This dataset aims to facilitate the development of advanced AI models capable of accurately identifying and categorizing pistachios based on a variety of factors
+
